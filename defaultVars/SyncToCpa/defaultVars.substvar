@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>countryInClickidIndex</name>
+			<value>2</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1512459304367</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>inlanddomain</name>
+			<value>http://e.cpatest.mobcastlead.com</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1512458465719</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>overseasdomain</name>
+			<value>http://hk.mobcastlead.com</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1512458465753</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>

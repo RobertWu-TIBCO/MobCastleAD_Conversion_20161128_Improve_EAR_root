@@ -11,11 +11,11 @@
 		</globalVariable>
 		<globalVariable>
 			<name>inlanddomain</name>
-			<value>http://e.cpatest.mobcastlead.com</value>
+			<value>http://e.cpa.mobcastlead.com</value>
 			<deploymentSettable>true</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
-			<modTime>1512458465719</modTime>
+			<modTime>1513043621775</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>overseasdomain</name>
